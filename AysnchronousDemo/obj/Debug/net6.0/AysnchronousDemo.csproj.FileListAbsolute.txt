@@ -1,0 +1,15 @@
+C:\Users\EliMarvin\Repos\AysnchronousDemo\AysnchronousDemo\bin\Debug\net6.0\AysnchronousDemo.exe
+C:\Users\EliMarvin\Repos\AysnchronousDemo\AysnchronousDemo\bin\Debug\net6.0\AysnchronousDemo.deps.json
+C:\Users\EliMarvin\Repos\AysnchronousDemo\AysnchronousDemo\bin\Debug\net6.0\AysnchronousDemo.runtimeconfig.json
+C:\Users\EliMarvin\Repos\AysnchronousDemo\AysnchronousDemo\bin\Debug\net6.0\AysnchronousDemo.dll
+C:\Users\EliMarvin\Repos\AysnchronousDemo\AysnchronousDemo\bin\Debug\net6.0\ref\AysnchronousDemo.dll
+C:\Users\EliMarvin\Repos\AysnchronousDemo\AysnchronousDemo\bin\Debug\net6.0\AysnchronousDemo.pdb
+C:\Users\EliMarvin\Repos\AysnchronousDemo\AysnchronousDemo\obj\Debug\net6.0\AysnchronousDemo.csproj.AssemblyReference.cache
+C:\Users\EliMarvin\Repos\AysnchronousDemo\AysnchronousDemo\obj\Debug\net6.0\AysnchronousDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EliMarvin\Repos\AysnchronousDemo\AysnchronousDemo\obj\Debug\net6.0\AysnchronousDemo.AssemblyInfoInputs.cache
+C:\Users\EliMarvin\Repos\AysnchronousDemo\AysnchronousDemo\obj\Debug\net6.0\AysnchronousDemo.AssemblyInfo.cs
+C:\Users\EliMarvin\Repos\AysnchronousDemo\AysnchronousDemo\obj\Debug\net6.0\AysnchronousDemo.csproj.CoreCompileInputs.cache
+C:\Users\EliMarvin\Repos\AysnchronousDemo\AysnchronousDemo\obj\Debug\net6.0\AysnchronousDemo.dll
+C:\Users\EliMarvin\Repos\AysnchronousDemo\AysnchronousDemo\obj\Debug\net6.0\ref\AysnchronousDemo.dll
+C:\Users\EliMarvin\Repos\AysnchronousDemo\AysnchronousDemo\obj\Debug\net6.0\AysnchronousDemo.pdb
+C:\Users\EliMarvin\Repos\AysnchronousDemo\AysnchronousDemo\obj\Debug\net6.0\AysnchronousDemo.genruntimeconfig.cache
